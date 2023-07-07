@@ -1,0 +1,9 @@
+export const HOME = "/home";
+export const POSTS = "/posts";
+export const POST_DETAILS = "/posts/:postId";
+export const POST_FORM = "/postForm";
+export const SIGNIN = "/signin";
+export const SIGNUP = "/signup";
+export const START = "/start";
+export const USER_PROFILE = "/:username";
+export const BOOKMARKS = "/:username/bookmarks";
